@@ -1,6 +1,6 @@
 # Unsplash-Safari
 
-A New Tab page that uses the unsplash photo database, designed for Safari, but compatiable on all Mobile Devices.
+A New Tab page that uses the unsplash photo database, that can be used on all desktop and mobile web browsers.
 
 ## Installation
 
